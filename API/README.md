@@ -1,93 +1,93 @@
 - [ ] Tensor Transformations
 
-Asserts and boolean checks
+- [ ] Asserts and boolean checks
 
-Running Graphs
+- [ ] Running Graphs
 
-Constants, Sequences, and Random Values
+- [ ] Constants, Sequences, and Random Values
 
-BayesFlow Monte Carlo (contrib)
+- [ ] BayesFlow Monte Carlo (contrib)
 
-CRF (contrib)
+- [ ] CRF (contrib)
 
-Random variable transformations (contrib)
+- [ ] Random variable transformations (contrib)
 
-Statistical Distributions (contrib)
+- [ ] Statistical Distributions (contrib)
 
-FFmpeg (contrib)
+- [ ] FFmpeg (contrib)
 
-Framework (contrib)
+- [ ] Framework (contrib)
 
-Graph Editor (contrib)
+- [ ] Graph Editor (contrib)
 
-Integrate (contrib)
+- [ ] Integrate (contrib)
 
-Layers (contrib)
+- [ ] Layers (contrib)
 
-Learn (contrib)
+- [ ] Learn (contrib)
 
-Linear Algebra (contrib)
+- [ ] Linear Algebra (contrib)
 
-Losses (contrib)
+- [ ] Losses (contrib)
 
-Metrics (contrib)
+- [ ] Metrics (contrib)
 
-RNN and Cells (contrib)
+- [ ] RNN and Cells (contrib)
 
-Seq2seq Library (contrib)
+- [ ] Seq2seq Library (contrib)
 
-Signal Processing (contrib)
+- [ ] Signal Processing (contrib)
 
-Staging (contrib)
+- [ ] Staging (contrib)
 
-Training (contrib)
+- [ ] Training (contrib)
 
-Utilities (contrib)
+- [ ] Utilities (contrib)
 
-Control Flow
+- [ ] Control Flow
 
-Building Graphs
+- [ ] Building Graphs
 
-Higher Order Functions
+- [ ] Higher Order Functions
 
-Images
+- [ ] Images
 
-Python API Guides
+- [ ] Python API Guides
 
-Dataset Input Pipeline
+- [ ] Dataset Input Pipeline
 
-Inputs and Readers
+- [ ] Inputs and Readers
 
-Math
+- [ ] Math
 
-Exporting and Importing a MetaGraph
+- [ ] Exporting and Importing a MetaGraph
 
-Neural
+- [ ] Neural
 
-Network
+- [ ] Network
 
-Data IO (Python functions)
+- [ ] Data IO (Python functions)
 
-Reading data
+- [ ] Reading data
 
-Regression Examples
+- [ ] Regression Examples
 
-Tensor Handle Operations
+- [ ] Tensor Handle Operations
 
-Sparse Tensors
+- [ ] Sparse Tensors
 
-Spectral Functions
+- [ ] Spectral Functions
 
-Variables
+- [ ] Variables
 
-Strings
+- [ ] Strings
 
-Summary Operations
+- [ ] Summary Operations
 
-Testing
+- [ ] Testing
 
-TensorFlow Debugger
+- [ ] TensorFlow Debugger
 
-Threading and Queues
+- [ ] Threading and Queues
 
-Training
+- [ ] Training
